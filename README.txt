@@ -1,1 +1,0 @@
-Hanya image bmp tertentu yang bisa disimpan
