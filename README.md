@@ -7,3 +7,6 @@ NIM: 32180028
 -Image Color\
 -Threshold\
 -Brightness & Contrass
+
+# Test
+-Run .exe file
